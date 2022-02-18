@@ -1,5 +1,5 @@
-!(c_programming)(https://pixabay.com/ko/illustrations/c-%ec%95%8c%ed%8c%8c%eb%b2%b3-%ed%8e%b8%ec%a7%80-%ed%88%ac%eb%aa%85%ed%95%9c-2134266/)
-!(logo)(https://pixabay.com/ko/illustrations/c-%ec%95%8c%ed%8c%8c%eb%b2%b3-%ed%8e%b8%ec%a7%80-%ed%88%ac%eb%aa%85%ed%95%9c-2134266/)
+!(c_programming)(https://cdn.pixabay.com/photo/2017/03/11/03/12/c-2134266__340.png)
+!(logo)(https://cdn.pixabay.com/photo/2017/03/11/03/12/c-2134266__340.png)
 
 # Test-repository
 
