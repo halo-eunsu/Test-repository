@@ -1,5 +1,5 @@
-!(c_programming)(https://cdn.pixabay.com/photo/2017/03/11/03/12/c-2134266__340.png)
-!(logo)(https://cdn.pixabay.com/photo/2017/03/11/03/12/c-2134266__340.png)
+![c-2134266__340 (1)](https://user-images.githubusercontent.com/99951904/154646587-e2934286-b798-4015-ab71-159837ccb02b.png)
+
 
 # Test-repository
 
