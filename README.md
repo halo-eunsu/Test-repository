@@ -1,3 +1,6 @@
+!(c_programming)(https://pixabay.com/ko/illustrations/c-%ec%95%8c%ed%8c%8c%eb%b2%b3-%ed%8e%b8%ec%a7%80-%ed%88%ac%eb%aa%85%ed%95%9c-2134266/)
+!(logo)(https://pixabay.com/ko/illustrations/c-%ec%95%8c%ed%8c%8c%eb%b2%b3-%ed%8e%b8%ec%a7%80-%ed%88%ac%eb%aa%85%ed%95%9c-2134266/)
+
 # Test-repository
 
 깃허브 테스트용 저장소
